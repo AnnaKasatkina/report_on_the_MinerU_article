@@ -1,0 +1,219 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/d44af1c2d6b77193e61f8cebe0315ddb2c1491ff57438b8314a8ae047fa697c1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            72,
+            53,
+            941,
+            482
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "bbox": [
+            454,
+            532,
+            475,
+            557
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hp p AT! OH   . M MK, 1 B, WMeNBenua! ",
+        "bbox": [
+            206,
+            578,
+            740,
+            798
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bcex , nT A! ",
+        "bbox": [
+            206,
+            824,
+            725,
+            897
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "text_level": 1,
+        "bbox": [
+            433,
+            60,
+            459,
+            83
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a  a: ,O, Me yKyC oca!\" ",
+        "bbox": [
+            81,
+            100,
+            641,
+            175
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A 6,  K B!\"",
+        "bbox": [
+            84,
+            187,
+            714,
+            262
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            81,
+            276,
+            519,
+            310
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "W 3akpaa:,Añ-a! ",
+        "bbox": [
+            84,
+            314,
+            515,
+            347
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "! ",
+        "bbox": [
+            86,
+            352,
+            725,
+            383
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            88,
+            390,
+            737,
+            421
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "! ",
+        "bbox": [
+            569,
+            425,
+            824,
+            458
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "O   e, W ey nepepao HK, 6  , Ma 3 . ",
+        "bbox": [
+            81,
+            465,
+            728,
+            607
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "W c AñoT: ,He 6ena! ¶o-a ero cna! ey HB , OH  T  . ",
+        "bbox": [
+            79,
+            621,
+            749,
+            770
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ky, Takoro 6oMbHoro, xpooro, , 3a nb c. ",
+        "bbox": [
+            81,
+            784,
+            620,
+            859
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9c94515b08d2ee796f16b86a9c2d2d7525af66a2474e50670d5e82920994bc0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            32,
+            65,
+            903,
+            399
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            159,
+            449,
+            784,
+            524
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A c   3-TTOxe Ha THBAT.C   T:,,Hy, cnaCo Tee, AñonT!\"",
+        "bbox": [
+            159,
+            538,
+            789,
+            685
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ca12d44505139fee1900e299e5264ed3ff434a92e9b9fe70e7cb9dc0ca4da81.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            259,
+            722,
+            669,
+            894
+        ],
+        "page_idx": 2
+    }
+]

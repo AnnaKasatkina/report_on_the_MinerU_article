@@ -1,0 +1,4982 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        225,
+                        131,
+                        367,
+                        176
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                219,
+                                127,
+                                371,
+                                181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        219,
+                                        127,
+                                        371,
+                                        181
+                                    ],
+                                    "score": 1.0,
+                                    "content": "NEWS",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0.5,
+                    "virtual_lines": [
+                        {
+                            "bbox": [
+                                225,
+                                131,
+                                367,
+                                153.5
+                            ],
+                            "spans": [],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                225,
+                                153.5,
+                                367,
+                                176.0
+                            ],
+                            "spans": [],
+                            "index": 1
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        45,
+                        216,
+                        551,
+                        266
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                45,
+                                214,
+                                553,
+                                239
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        214,
+                                        553,
+                                        239
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Get the latest Harry Potter news here. Faster than an owl and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                137,
+                                242,
+                                456,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        137,
+                                        242,
+                                        456,
+                                        265
+                                    ],
+                                    "score": 1.0,
+                                    "content": "more accurate than the Daily Prophet",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 2.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        185,
+                        397,
+                        407,
+                        429
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                182,
+                                393,
+                                411,
+                                433
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        182,
+                                        393,
+                                        411,
+                                        433
+                                    ],
+                                    "score": 1.0,
+                                    "content": "LLaatteesst &t & g grreeaatteesstt",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        0,
+                        465,
+                        318,
+                        783
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                0,
+                                465,
+                                318,
+                                783
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        465,
+                                        318,
+                                        783
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                465,
+                                                318,
+                                                783
+                                            ],
+                                            "score": 0.949,
+                                            "type": "image",
+                                            "image_path": "34883032c6ed3585efb4289c3ac67f19962a8f2575c01759192229300de77f35.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        465,
+                                        318,
+                                        571.0
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        0,
+                                        571.0,
+                                        318,
+                                        677.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        0,
+                                        677.0,
+                                        318,
+                                        783.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        373,
+                        544,
+                        470,
+                        557
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                373,
+                                545,
+                                470,
+                                557
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        373,
+                                        545,
+                                        470,
+                                        557
+                                    ],
+                                    "score": 1.0,
+                                    "content": "FEATURE SPOTLIGHT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        570,
+                        554,
+                        687
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                372,
+                                570,
+                                554,
+                                589
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        372,
+                                        570,
+                                        554,
+                                        589
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The world’s fi rst LEGO",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                372,
+                                595,
+                                511,
+                                614
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        372,
+                                        595,
+                                        511,
+                                        614
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Harry Potter land",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                372,
+                                620,
+                                477,
+                                636
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        372,
+                                        620,
+                                        477,
+                                        636
+                                    ],
+                                    "score": 1.0,
+                                    "content": "announced at",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                373,
+                                643,
+                                478,
+                                660
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        373,
+                                        643,
+                                        478,
+                                        660
+                                    ],
+                                    "score": 1.0,
+                                    "content": "LEGOLAND®",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                373,
+                                667,
+                                528,
+                                684
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        373,
+                                        667,
+                                        528,
+                                        684
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Deutschland Resort",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        232,
+                        787,
+                        362,
+                        835
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                232,
+                                787,
+                                362,
+                                835
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        232,
+                                        787,
+                                        362,
+                                        835
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                232,
+                                                787,
+                                                362,
+                                                835
+                                            ],
+                                            "score": 0.272,
+                                            "type": "image",
+                                            "image_path": "322a86d1a0c35eee3757ad885438b6b0d68e16859a40e8a5cafa11afe412e371.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        232,
+                                        787,
+                                        362,
+                                        811.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        232,
+                                        811.0,
+                                        362,
+                                        835.0
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        703,
+                        528,
+                        785
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                372,
+                                703,
+                                507,
+                                719
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        372,
+                                        703,
+                                        507,
+                                        719
+                                    ],
+                                    "score": 1.0,
+                                    "content": "We can excitingly reveal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                372,
+                                721,
+                                520,
+                                737
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        372,
+                                        721,
+                                        520,
+                                        737
+                                    ],
+                                    "score": 1.0,
+                                    "content": "that a magical new land is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                371,
+                                738,
+                                528,
+                                756
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        738,
+                                        528,
+                                        756
+                                    ],
+                                    "score": 1.0,
+                                    "content": "in the making at LEGOLAND",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                373,
+                                757,
+                                527,
+                                771
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        373,
+                                        757,
+                                        527,
+                                        771
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Deutschland Resort with the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 15.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                594,
+                840
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        284,
+                        292,
+                        310,
+                        324
+                    ],
+                    "lines": []
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        225,
+                        131,
+                        367,
+                        176
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                219,
+                                127,
+                                371,
+                                181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        219,
+                                        127,
+                                        371,
+                                        181
+                                    ],
+                                    "score": 1.0,
+                                    "content": "NEWS",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0.5,
+                    "virtual_lines": [
+                        {
+                            "bbox": [
+                                225,
+                                131,
+                                367,
+                                153.5
+                            ],
+                            "spans": [],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                225,
+                                153.5,
+                                367,
+                                176.0
+                            ],
+                            "spans": [],
+                            "index": 1
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        45,
+                        216,
+                        551,
+                        266
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                45,
+                                214,
+                                553,
+                                239
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        214,
+                                        553,
+                                        239
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Get the latest Harry Potter news here. Faster than an owl and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                137,
+                                242,
+                                456,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        137,
+                                        242,
+                                        456,
+                                        265
+                                    ],
+                                    "score": 1.0,
+                                    "content": "more accurate than the Daily Prophet",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 2.5,
+                    "bbox_fs": [
+                        45,
+                        214,
+                        553,
+                        265
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        185,
+                        397,
+                        407,
+                        429
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                182,
+                                393,
+                                411,
+                                433
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        182,
+                                        393,
+                                        411,
+                                        433
+                                    ],
+                                    "score": 1.0,
+                                    "content": "LLaatteesst &t & g grreeaatteesstt",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        0,
+                        465,
+                        318,
+                        783
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                0,
+                                465,
+                                318,
+                                783
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        465,
+                                        318,
+                                        783
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                465,
+                                                318,
+                                                783
+                                            ],
+                                            "score": 0.949,
+                                            "type": "image",
+                                            "image_path": "34883032c6ed3585efb4289c3ac67f19962a8f2575c01759192229300de77f35.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        465,
+                                        318,
+                                        571.0
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        0,
+                                        571.0,
+                                        318,
+                                        677.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        0,
+                                        677.0,
+                                        318,
+                                        783.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        373,
+                        544,
+                        470,
+                        557
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                373,
+                                545,
+                                470,
+                                557
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        373,
+                                        545,
+                                        470,
+                                        557
+                                    ],
+                                    "score": 1.0,
+                                    "content": "FEATURE SPOTLIGHT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9,
+                    "bbox_fs": [
+                        373,
+                        545,
+                        470,
+                        557
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        372,
+                        570,
+                        554,
+                        687
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                372,
+                                570,
+                                554,
+                                589
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        372,
+                                        570,
+                                        554,
+                                        589
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The world’s fi rst LEGO",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                372,
+                                595,
+                                511,
+                                614
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        372,
+                                        595,
+                                        511,
+                                        614
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Harry Potter land",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                372,
+                                620,
+                                477,
+                                636
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        372,
+                                        620,
+                                        477,
+                                        636
+                                    ],
+                                    "score": 1.0,
+                                    "content": "announced at",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                373,
+                                643,
+                                478,
+                                660
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        373,
+                                        643,
+                                        478,
+                                        660
+                                    ],
+                                    "score": 1.0,
+                                    "content": "LEGOLAND®",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                373,
+                                667,
+                                528,
+                                684
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        373,
+                                        667,
+                                        528,
+                                        684
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Deutschland Resort",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 12,
+                    "bbox_fs": [
+                        372,
+                        570,
+                        554,
+                        684
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        232,
+                        787,
+                        362,
+                        835
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                232,
+                                787,
+                                362,
+                                835
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        232,
+                                        787,
+                                        362,
+                                        835
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                232,
+                                                787,
+                                                362,
+                                                835
+                                            ],
+                                            "score": 0.272,
+                                            "type": "image",
+                                            "image_path": "322a86d1a0c35eee3757ad885438b6b0d68e16859a40e8a5cafa11afe412e371.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        232,
+                                        787,
+                                        362,
+                                        811.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        232,
+                                        811.0,
+                                        362,
+                                        835.0
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        372,
+                        703,
+                        528,
+                        785
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                372,
+                                703,
+                                507,
+                                719
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        372,
+                                        703,
+                                        507,
+                                        719
+                                    ],
+                                    "score": 1.0,
+                                    "content": "We can excitingly reveal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                372,
+                                721,
+                                520,
+                                737
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        372,
+                                        721,
+                                        520,
+                                        737
+                                    ],
+                                    "score": 1.0,
+                                    "content": "that a magical new land is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                371,
+                                738,
+                                528,
+                                756
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        371,
+                                        738,
+                                        528,
+                                        756
+                                    ],
+                                    "score": 1.0,
+                                    "content": "in the making at LEGOLAND",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                373,
+                                757,
+                                527,
+                                771
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        373,
+                                        757,
+                                        527,
+                                        771
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Deutschland Resort with the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 15.5,
+                    "bbox_fs": [
+                        371,
+                        703,
+                        528,
+                        771
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        74,
+                        130,
+                        521,
+                        579
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                74,
+                                130,
+                                521,
+                                579
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        130,
+                                        521,
+                                        579
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                74,
+                                                130,
+                                                521,
+                                                579
+                                            ],
+                                            "score": 0.956,
+                                            "type": "image",
+                                            "image_path": "80ed8361bdb6aa61d7ffb3dcc0ecf1885aa2d7d0c7dd7634892d1a52822a3d0d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        130,
+                                        521,
+                                        279.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        74,
+                                        279.66666666666663,
+                                        521,
+                                        429.33333333333326
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        74,
+                                        429.33333333333326,
+                                        521,
+                                        578.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        84,
+                        593,
+                        512,
+                        681
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                592,
+                                507,
+                                622
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        592,
+                                        507,
+                                        622
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Inside the stunning Harry Potter and the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                81,
+                                621,
+                                514,
+                                654
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        81,
+                                        621,
+                                        514,
+                                        654
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Cursed Child gala celebrating Tom Felton",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                176,
+                                654,
+                                418,
+                                681
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        176,
+                                        654,
+                                        418,
+                                        681
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and the year seven cast",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        697,
+                        394,
+                        712
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                697,
+                                394,
+                                714
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        697,
+                                        394,
+                                        714
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "page_idx": 1,
+            "page_size": [
+                594,
+                840
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        407,
+                        45,
+                        497,
+                        56
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                408,
+                                45,
+                                498,
+                                56
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        408,
+                                        45,
+                                        498,
+                                        56
+                                    ],
+                                    "score": 1.0,
+                                    "content": "READ FEATURE",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        374,
+                        3,
+                        541,
+                        15
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                373,
+                                2,
+                                543,
+                                16
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        373,
+                                        2,
+                                        543,
+                                        16
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        232,
+                        786,
+                        362,
+                        835
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                226,
+                                780,
+                                370,
+                                840
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        780,
+                                        370,
+                                        840
+                                    ],
+                                    "score": 0.936,
+                                    "content": "Hary Potter",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        74,
+                        130,
+                        521,
+                        579
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                74,
+                                130,
+                                521,
+                                579
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        130,
+                                        521,
+                                        579
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                74,
+                                                130,
+                                                521,
+                                                579
+                                            ],
+                                            "score": 0.956,
+                                            "type": "image",
+                                            "image_path": "80ed8361bdb6aa61d7ffb3dcc0ecf1885aa2d7d0c7dd7634892d1a52822a3d0d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        130,
+                                        521,
+                                        279.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        74,
+                                        279.66666666666663,
+                                        521,
+                                        429.33333333333326
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        74,
+                                        429.33333333333326,
+                                        521,
+                                        578.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        84,
+                        593,
+                        512,
+                        681
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                592,
+                                507,
+                                622
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        592,
+                                        507,
+                                        622
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Inside the stunning Harry Potter and the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                81,
+                                621,
+                                514,
+                                654
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        81,
+                                        621,
+                                        514,
+                                        654
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Cursed Child gala celebrating Tom Felton",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                176,
+                                654,
+                                418,
+                                681
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        176,
+                                        654,
+                                        418,
+                                        681
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and the year seven cast",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        697,
+                        394,
+                        712
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                697,
+                                394,
+                                714
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        697,
+                                        394,
+                                        714
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6,
+                    "bbox_fs": [
+                        201,
+                        697,
+                        394,
+                        714
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        74,
+                        1,
+                        519,
+                        446
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                74,
+                                1,
+                                519,
+                                446
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        1,
+                                        519,
+                                        446
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                74,
+                                                1,
+                                                519,
+                                                446
+                                            ],
+                                            "score": 0.962,
+                                            "type": "image",
+                                            "image_path": "8bb3ecd8bf11af0f488d49aff42d7ea17be68ad1ae4d7caa62bb030905343fbe.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        1,
+                                        519,
+                                        149.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        74,
+                                        149.33333333333334,
+                                        519,
+                                        297.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        74,
+                                        297.6666666666667,
+                                        519,
+                                        446.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        92,
+                        461,
+                        503,
+                        550
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                457,
+                                504,
+                                493
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        457,
+                                        504,
+                                        493
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Tom Felton made his dazzling Broadway",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                97,
+                                491,
+                                496,
+                                520
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        491,
+                                        496,
+                                        520
+                                    ],
+                                    "score": 1.0,
+                                    "content": "debut as Draco Malfoy in Harry Potter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                186,
+                                522,
+                                408,
+                                548
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        522,
+                                        408,
+                                        548
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and the Cursed Child",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        565,
+                        394,
+                        581
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                565,
+                                394,
+                                583
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        565,
+                                        394,
+                                        583
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        284,
+                        595,
+                        310,
+                        610
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                284,
+                                595,
+                                310,
+                                610
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        595,
+                                        310,
+                                        610
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                284,
+                                                595,
+                                                310,
+                                                610
+                                            ],
+                                            "score": 0.424,
+                                            "type": "image",
+                                            "image_path": "bbdfeed01b9a3851a45e4feb32d929e74f6a5b4f7bdb7f0698f35ab34f2f90f1.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        595,
+                                        310,
+                                        610
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        192,
+                        631,
+                        403,
+                        663
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                189,
+                                628,
+                                406,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        189,
+                                        628,
+                                        406,
+                                        667
+                                    ],
+                                    "score": 1.0,
+                                    "content": "More to explore",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        174,
+                        705,
+                        421,
+                        746
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                174,
+                                705,
+                                422,
+                                723
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        174,
+                                        705,
+                                        422,
+                                        723
+                                    ],
+                                    "score": 1.0,
+                                    "content": "How to become your own wizard of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                227,
+                                727,
+                                369,
+                                747
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        227,
+                                        727,
+                                        369,
+                                        747
+                                    ],
+                                    "score": 1.0,
+                                    "content": "baking with Wayfair",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 9.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        758,
+                        393,
+                        772
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                757,
+                                394,
+                                774
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        757,
+                                        394,
+                                        774
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11
+                }
+            ],
+            "page_idx": 2,
+            "page_size": [
+                594,
+                840
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        232,
+                        786,
+                        362,
+                        834
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                226,
+                                780,
+                                370,
+                                840
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        780,
+                                        370,
+                                        840
+                                    ],
+                                    "score": 0.936,
+                                    "content": "Hary Potter",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        74,
+                        1,
+                        519,
+                        446
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                74,
+                                1,
+                                519,
+                                446
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        1,
+                                        519,
+                                        446
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                74,
+                                                1,
+                                                519,
+                                                446
+                                            ],
+                                            "score": 0.962,
+                                            "type": "image",
+                                            "image_path": "8bb3ecd8bf11af0f488d49aff42d7ea17be68ad1ae4d7caa62bb030905343fbe.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        1,
+                                        519,
+                                        149.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        74,
+                                        149.33333333333334,
+                                        519,
+                                        297.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        74,
+                                        297.6666666666667,
+                                        519,
+                                        446.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        92,
+                        461,
+                        503,
+                        550
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                457,
+                                504,
+                                493
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        457,
+                                        504,
+                                        493
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Tom Felton made his dazzling Broadway",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                97,
+                                491,
+                                496,
+                                520
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        491,
+                                        496,
+                                        520
+                                    ],
+                                    "score": 1.0,
+                                    "content": "debut as Draco Malfoy in Harry Potter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                186,
+                                522,
+                                408,
+                                548
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        522,
+                                        408,
+                                        548
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and the Cursed Child",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        565,
+                        394,
+                        581
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                565,
+                                394,
+                                583
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        565,
+                                        394,
+                                        583
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6,
+                    "bbox_fs": [
+                        201,
+                        565,
+                        394,
+                        583
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        284,
+                        595,
+                        310,
+                        610
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                284,
+                                595,
+                                310,
+                                610
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        595,
+                                        310,
+                                        610
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                284,
+                                                595,
+                                                310,
+                                                610
+                                            ],
+                                            "score": 0.424,
+                                            "type": "image",
+                                            "image_path": "bbdfeed01b9a3851a45e4feb32d929e74f6a5b4f7bdb7f0698f35ab34f2f90f1.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        595,
+                                        310,
+                                        610
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        192,
+                        631,
+                        403,
+                        663
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                189,
+                                628,
+                                406,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        189,
+                                        628,
+                                        406,
+                                        667
+                                    ],
+                                    "score": 1.0,
+                                    "content": "More to explore",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        174,
+                        705,
+                        421,
+                        746
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                174,
+                                705,
+                                422,
+                                723
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        174,
+                                        705,
+                                        422,
+                                        723
+                                    ],
+                                    "score": 1.0,
+                                    "content": "How to become your own wizard of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                227,
+                                727,
+                                369,
+                                747
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        227,
+                                        727,
+                                        369,
+                                        747
+                                    ],
+                                    "score": 1.0,
+                                    "content": "baking with Wayfair",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 9.5,
+                    "bbox_fs": [
+                        174,
+                        705,
+                        422,
+                        747
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        758,
+                        393,
+                        772
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                757,
+                                394,
+                                774
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        757,
+                                        394,
+                                        774
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11,
+                    "bbox_fs": [
+                        200,
+                        757,
+                        394,
+                        774
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        165,
+                        2,
+                        429,
+                        43
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                164,
+                                2,
+                                430,
+                                21
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        164,
+                                        2,
+                                        430,
+                                        21
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Hear Harry Potter like never before as",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                172,
+                                24,
+                                423,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        172,
+                                        24,
+                                        423,
+                                        45
+                                    ],
+                                    "score": 1.0,
+                                    "content": "we celebrate the launch of the new,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 0.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        217,
+                        48,
+                        378,
+                        65
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                216,
+                                47,
+                                379,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        47,
+                                        379,
+                                        66
+                                    ],
+                                    "score": 1.0,
+                                    "content": "full-cast audio editions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        78,
+                        394,
+                        93
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                78,
+                                394,
+                                94
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        78,
+                                        394,
+                                        94
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        174,
+                        160,
+                        422,
+                        201
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                173,
+                                159,
+                                423,
+                                181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        173,
+                                        159,
+                                        423,
+                                        181
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Every single voice you hear in Harry",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                175,
+                                183,
+                                420,
+                                200
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        175,
+                                        183,
+                                        420,
+                                        200
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Potter: The Full-Cast Audio Editions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        213,
+                        394,
+                        228
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                213,
+                                394,
+                                229
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        213,
+                                        394,
+                                        229
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        175,
+                        298,
+                        420,
+                        338
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                174,
+                                297,
+                                421,
+                                315
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        174,
+                                        297,
+                                        421,
+                                        315
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Brand-new cast members revealed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                177,
+                                320,
+                                417,
+                                338
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        177,
+                                        320,
+                                        417,
+                                        338
+                                    ],
+                                    "score": 1.0,
+                                    "content": "for star-studded Harry Potter: The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 7.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        215,
+                        343,
+                        380,
+                        360
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                342,
+                                381,
+                                360
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        342,
+                                        381,
+                                        360
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Full-Cast Audio Editions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        373,
+                        394,
+                        388
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                372,
+                                394,
+                                389
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        372,
+                                        394,
+                                        389
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        177,
+                        458,
+                        416,
+                        498
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                187,
+                                455,
+                                408,
+                                476
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        187,
+                                        455,
+                                        408,
+                                        476
+                                    ],
+                                    "score": 1.0,
+                                    "content": "MinaLima launch new seasonal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                177,
+                                479,
+                                417,
+                                500
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        177,
+                                        479,
+                                        417,
+                                        500
+                                    ],
+                                    "score": 1.0,
+                                    "content": "collection celebrating Honeydukes",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 11.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        510,
+                        394,
+                        525
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                510,
+                                394,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        510,
+                                        394,
+                                        527
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        170,
+                        594,
+                        426,
+                        658
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                180,
+                                595,
+                                415,
+                                612
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        180,
+                                        595,
+                                        415,
+                                        612
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Exclusive artwork reveal and Q&A",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                174,
+                                618,
+                                421,
+                                635
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        174,
+                                        618,
+                                        421,
+                                        635
+                                    ],
+                                    "score": 1.0,
+                                    "content": "with Harry Potter and the Goblet of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                168,
+                                641,
+                                427,
+                                657
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        168,
+                                        641,
+                                        427,
+                                        657
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Fire Interactive Edition illustrator Karl",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        235,
+                        663,
+                        358,
+                        680
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                234,
+                                663,
+                                359,
+                                680
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        234,
+                                        663,
+                                        359,
+                                        680
+                                    ],
+                                    "score": 1.0,
+                                    "content": "James Mountford",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        200,
+                        692,
+                        394,
+                        707
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                692,
+                                394,
+                                709
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        692,
+                                        394,
+                                        709
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 18
+                }
+            ],
+            "page_idx": 3,
+            "page_size": [
+                594,
+                840
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        166,
+                        776,
+                        396,
+                        837
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                224,
+                                777,
+                                373,
+                                844
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        224,
+                                        777,
+                                        373,
+                                        844
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Potter: The Full-Cast Editions",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        165,
+                        2,
+                        429,
+                        43
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                164,
+                                2,
+                                430,
+                                21
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        164,
+                                        2,
+                                        430,
+                                        21
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Hear Harry Potter like never before as",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                172,
+                                24,
+                                423,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        172,
+                                        24,
+                                        423,
+                                        45
+                                    ],
+                                    "score": 1.0,
+                                    "content": "we celebrate the launch of the new,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 0.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        217,
+                        48,
+                        378,
+                        65
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                216,
+                                47,
+                                379,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        47,
+                                        379,
+                                        66
+                                    ],
+                                    "score": 1.0,
+                                    "content": "full-cast audio editions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "bbox_fs": [
+                        216,
+                        47,
+                        379,
+                        66
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        78,
+                        394,
+                        93
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                78,
+                                394,
+                                94
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        78,
+                                        394,
+                                        94
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "bbox_fs": [
+                        200,
+                        78,
+                        394,
+                        94
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        174,
+                        160,
+                        422,
+                        201
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                173,
+                                159,
+                                423,
+                                181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        173,
+                                        159,
+                                        423,
+                                        181
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Every single voice you hear in Harry",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                175,
+                                183,
+                                420,
+                                200
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        175,
+                                        183,
+                                        420,
+                                        200
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Potter: The Full-Cast Audio Editions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4.5,
+                    "bbox_fs": [
+                        173,
+                        159,
+                        423,
+                        200
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        213,
+                        394,
+                        228
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                213,
+                                394,
+                                229
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        213,
+                                        394,
+                                        229
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6,
+                    "bbox_fs": [
+                        201,
+                        213,
+                        394,
+                        229
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        175,
+                        298,
+                        420,
+                        338
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                174,
+                                297,
+                                421,
+                                315
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        174,
+                                        297,
+                                        421,
+                                        315
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Brand-new cast members revealed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                177,
+                                320,
+                                417,
+                                338
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        177,
+                                        320,
+                                        417,
+                                        338
+                                    ],
+                                    "score": 1.0,
+                                    "content": "for star-studded Harry Potter: The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 7.5,
+                    "bbox_fs": [
+                        174,
+                        297,
+                        421,
+                        338
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        215,
+                        343,
+                        380,
+                        360
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                342,
+                                381,
+                                360
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        342,
+                                        381,
+                                        360
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Full-Cast Audio Editions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9,
+                    "bbox_fs": [
+                        213,
+                        342,
+                        381,
+                        360
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        373,
+                        394,
+                        388
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                372,
+                                394,
+                                389
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        372,
+                                        394,
+                                        389
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10,
+                    "bbox_fs": [
+                        201,
+                        372,
+                        394,
+                        389
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        177,
+                        458,
+                        416,
+                        498
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                187,
+                                455,
+                                408,
+                                476
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        187,
+                                        455,
+                                        408,
+                                        476
+                                    ],
+                                    "score": 1.0,
+                                    "content": "MinaLima launch new seasonal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                177,
+                                479,
+                                417,
+                                500
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        177,
+                                        479,
+                                        417,
+                                        500
+                                    ],
+                                    "score": 1.0,
+                                    "content": "collection celebrating Honeydukes",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 11.5,
+                    "bbox_fs": [
+                        177,
+                        455,
+                        417,
+                        500
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        510,
+                        394,
+                        525
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                510,
+                                394,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        510,
+                                        394,
+                                        527
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13,
+                    "bbox_fs": [
+                        201,
+                        510,
+                        394,
+                        527
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        170,
+                        594,
+                        426,
+                        658
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                180,
+                                595,
+                                415,
+                                612
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        180,
+                                        595,
+                                        415,
+                                        612
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Exclusive artwork reveal and Q&A",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                174,
+                                618,
+                                421,
+                                635
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        174,
+                                        618,
+                                        421,
+                                        635
+                                    ],
+                                    "score": 1.0,
+                                    "content": "with Harry Potter and the Goblet of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                168,
+                                641,
+                                427,
+                                657
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        168,
+                                        641,
+                                        427,
+                                        657
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Fire Interactive Edition illustrator Karl",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 15,
+                    "bbox_fs": [
+                        168,
+                        595,
+                        427,
+                        657
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        235,
+                        663,
+                        358,
+                        680
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                234,
+                                663,
+                                359,
+                                680
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        234,
+                                        663,
+                                        359,
+                                        680
+                                    ],
+                                    "score": 1.0,
+                                    "content": "James Mountford",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 17,
+                    "bbox_fs": [
+                        234,
+                        663,
+                        359,
+                        680
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        200,
+                        692,
+                        394,
+                        707
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                692,
+                                394,
+                                709
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        692,
+                                        394,
+                                        709
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 18,
+                    "bbox_fs": [
+                        200,
+                        692,
+                        394,
+                        709
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        2,
+                        394,
+                        16
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                1,
+                                394,
+                                18
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        1,
+                                        394,
+                                        18
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        179,
+                        95,
+                        416,
+                        158
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                182,
+                                93,
+                                413,
+                                116
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        182,
+                                        93,
+                                        413,
+                                        116
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Take a trip around the wizarding",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                177,
+                                117,
+                                416,
+                                137
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        177,
+                                        117,
+                                        416,
+                                        137
+                                    ],
+                                    "score": 1.0,
+                                    "content": "world with Harry Potter: Hogwarts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                267,
+                                139,
+                                329,
+                                162
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        267,
+                                        139,
+                                        329,
+                                        162
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mystery",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        170,
+                        393,
+                        185
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                170,
+                                395,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        170,
+                                        395,
+                                        187
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        171,
+                        255,
+                        424,
+                        317
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                170,
+                                255,
+                                424,
+                                271
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        170,
+                                        255,
+                                        424,
+                                        271
+                                    ],
+                                    "score": 1.0,
+                                    "content": "More cast members revealed for the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                173,
+                                278,
+                                422,
+                                295
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        173,
+                                        278,
+                                        422,
+                                        295
+                                    ],
+                                    "score": 1.0,
+                                    "content": "star-studded Harry Potter Full-Cast",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                246,
+                                300,
+                                348,
+                                317
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        246,
+                                        300,
+                                        348,
+                                        317
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Audio Editions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        330,
+                        393,
+                        345
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                330,
+                                394,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        330,
+                                        394,
+                                        346
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        44,
+                        568,
+                        342,
+                        603
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                44,
+                                567,
+                                342,
+                                580
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        567,
+                                        342,
+                                        580
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Looking for Wizarding World? HarryPotter.com is the official home of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                43,
+                                578,
+                                326,
+                                592
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        578,
+                                        326,
+                                        592
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Harry Potter, Fantastic Beasts, and the Wizarding World, formerly",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                44,
+                                591,
+                                140,
+                                603
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        591,
+                                        140,
+                                        603
+                                    ],
+                                    "score": 1.0,
+                                    "content": "known as Pottermore.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        44,
+                        616,
+                        348,
+                        651
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                43,
+                                614,
+                                332,
+                                629
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        614,
+                                        332,
+                                        629
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Brought to you by Wizarding World Digital and its parent company",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                44,
+                                628,
+                                348,
+                                639
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        628,
+                                        348,
+                                        639
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Warner Bros. Entertainment Inc., delivering the latest news and official",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                43,
+                                639,
+                                275,
+                                653
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        639,
+                                        275,
+                                        653
+                                    ],
+                                    "score": 1.0,
+                                    "content": "products from the Wizarding World and our partners.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        43,
+                        664,
+                        339,
+                        688
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                43,
+                                663,
+                                340,
+                                676
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        663,
+                                        165,
+                                        676
+                                    ],
+                                    "score": 1.0,
+                                    "content": "All characters and elements",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        166,
+                                        664,
+                                        175,
+                                        674
+                                    ],
+                                    "score": 0.65,
+                                    "content": "\\circledcirc",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        175,
+                                        663,
+                                        340,
+                                        676
+                                    ],
+                                    "score": 1.0,
+                                    "content": "& TM Warner Bros. Entertainment Inc.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                43,
+                                674,
+                                184,
+                                689
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        674,
+                                        119,
+                                        689
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Publishing Rights",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        120,
+                                        676,
+                                        128,
+                                        686
+                                    ],
+                                    "score": 0.66,
+                                    "content": "\\circledcirc",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        129,
+                                        674,
+                                        184,
+                                        689
+                                    ],
+                                    "score": 1.0,
+                                    "content": "J.K. Rowling.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 15.5
+                }
+            ],
+            "page_idx": 4,
+            "page_size": [
+                594,
+                840
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        38,
+                        407,
+                        559,
+                        495
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                42,
+                                416,
+                                559,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        425,
+                                        212,
+                                        439
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Настроить предпочтения  FAQs",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        284,
+                                        422,
+                                        378,
+                                        439
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Privacy & Cookies",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        413,
+                                        416,
+                                        559,
+                                        465
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Starting Harry Potter",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                42,
+                                448,
+                                410,
+                                469
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        452,
+                                        76,
+                                        469
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Press",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        181,
+                                        448,
+                                        410,
+                                        466
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Terms & Conditions  Children's Privacy Policy",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                180,
+                                474,
+                                323,
+                                493
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        180,
+                                        475,
+                                        242,
+                                        492
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ad Choices",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        282,
+                                        474,
+                                        323,
+                                        493
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Legals",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        432,
+                        543,
+                        539,
+                        565
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        45,
+                        544,
+                        202,
+                        555
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                44,
+                                543,
+                                203,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        544,
+                                        53,
+                                        554
+                                    ],
+                                    "score": 0.43,
+                                    "content": "\\circledcirc",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        54,
+                                        543,
+                                        203,
+                                        555
+                                    ],
+                                    "score": 1.0,
+                                    "content": "WIZARDING WORLD DIGITAL 2025",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        2,
+                        394,
+                        16
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                1,
+                                394,
+                                18
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        1,
+                                        394,
+                                        18
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "bbox_fs": [
+                        201,
+                        1,
+                        394,
+                        18
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        179,
+                        95,
+                        416,
+                        158
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                182,
+                                93,
+                                413,
+                                116
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        182,
+                                        93,
+                                        413,
+                                        116
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Take a trip around the wizarding",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                177,
+                                117,
+                                416,
+                                137
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        177,
+                                        117,
+                                        416,
+                                        137
+                                    ],
+                                    "score": 1.0,
+                                    "content": "world with Harry Potter: Hogwarts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                267,
+                                139,
+                                329,
+                                162
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        267,
+                                        139,
+                                        329,
+                                        162
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mystery",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 2,
+                    "bbox_fs": [
+                        177,
+                        93,
+                        416,
+                        162
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        170,
+                        393,
+                        185
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                170,
+                                395,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        170,
+                                        395,
+                                        187
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "bbox_fs": [
+                        201,
+                        170,
+                        395,
+                        187
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        171,
+                        255,
+                        424,
+                        317
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                170,
+                                255,
+                                424,
+                                271
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        170,
+                                        255,
+                                        424,
+                                        271
+                                    ],
+                                    "score": 1.0,
+                                    "content": "More cast members revealed for the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                173,
+                                278,
+                                422,
+                                295
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        173,
+                                        278,
+                                        422,
+                                        295
+                                    ],
+                                    "score": 1.0,
+                                    "content": "star-studded Harry Potter Full-Cast",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                246,
+                                300,
+                                348,
+                                317
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        246,
+                                        300,
+                                        348,
+                                        317
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Audio Editions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 6,
+                    "bbox_fs": [
+                        170,
+                        255,
+                        424,
+                        317
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        201,
+                        330,
+                        393,
+                        345
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                200,
+                                330,
+                                394,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        200,
+                                        330,
+                                        394,
+                                        346
+                                    ],
+                                    "score": 1.0,
+                                    "content": "By The Harry Potter Editorial Team",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8,
+                    "bbox_fs": [
+                        200,
+                        330,
+                        394,
+                        346
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        44,
+                        568,
+                        342,
+                        603
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                44,
+                                567,
+                                342,
+                                580
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        567,
+                                        342,
+                                        580
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Looking for Wizarding World? HarryPotter.com is the official home of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                43,
+                                578,
+                                326,
+                                592
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        578,
+                                        326,
+                                        592
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Harry Potter, Fantastic Beasts, and the Wizarding World, formerly",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                44,
+                                591,
+                                140,
+                                603
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        591,
+                                        140,
+                                        603
+                                    ],
+                                    "score": 1.0,
+                                    "content": "known as Pottermore.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 10,
+                    "bbox_fs": [
+                        43,
+                        567,
+                        342,
+                        603
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        44,
+                        616,
+                        348,
+                        651
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                43,
+                                614,
+                                332,
+                                629
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        614,
+                                        332,
+                                        629
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Brought to you by Wizarding World Digital and its parent company",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                44,
+                                628,
+                                348,
+                                639
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        628,
+                                        348,
+                                        639
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Warner Bros. Entertainment Inc., delivering the latest news and official",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                43,
+                                639,
+                                275,
+                                653
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        639,
+                                        275,
+                                        653
+                                    ],
+                                    "score": 1.0,
+                                    "content": "products from the Wizarding World and our partners.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 13,
+                    "bbox_fs": [
+                        43,
+                        614,
+                        348,
+                        653
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        43,
+                        664,
+                        339,
+                        688
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                43,
+                                663,
+                                340,
+                                676
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        663,
+                                        165,
+                                        676
+                                    ],
+                                    "score": 1.0,
+                                    "content": "All characters and elements",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        166,
+                                        664,
+                                        175,
+                                        674
+                                    ],
+                                    "score": 0.65,
+                                    "content": "\\circledcirc",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        175,
+                                        663,
+                                        340,
+                                        676
+                                    ],
+                                    "score": 1.0,
+                                    "content": "& TM Warner Bros. Entertainment Inc.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                43,
+                                674,
+                                184,
+                                689
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        674,
+                                        119,
+                                        689
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Publishing Rights",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        120,
+                                        676,
+                                        128,
+                                        686
+                                    ],
+                                    "score": 0.66,
+                                    "content": "\\circledcirc",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        129,
+                                        674,
+                                        184,
+                                        689
+                                    ],
+                                    "score": 1.0,
+                                    "content": "J.K. Rowling.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 15.5,
+                    "bbox_fs": [
+                        43,
+                        663,
+                        340,
+                        689
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.2"
+}
